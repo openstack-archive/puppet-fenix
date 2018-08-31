@@ -1,0 +1,8 @@
+Code-Review+2: Tomi Juvonen <tomi.juvonen@nokia.com>
+Workflow+1: Tomi Juvonen <tomi.juvonen@nokia.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 31 Aug 2018 10:55:37 +0000
+Reviewed-on: https://review.openstack.org/598507
+Project: openstack/puppet-fenix
+Branch: refs/heads/master
